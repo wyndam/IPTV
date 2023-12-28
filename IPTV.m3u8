@@ -148,7 +148,7 @@ http://192.168.1.1:4022/rtp/239.69.1.74:10084
 #EXTINF:-1 ,风云音乐
 http://192.168.1.1:4022/rtp/239.69.1.90:10180
 #EXTINF:-1 ,风云足球HD
-http://192.168.1.1:4022/rtp/121.60.254.112:554/live/ch17051615120887257789.sdp?playtype=1&boid=001&clienttype=1&time=20231224220926+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=wh1801292621&mediaid=ch17051615120887257789&ctype=2&TSTVTimeLife=7200&authid=0&terminalflag=1&UserLiveType=1&stbid=00100300000090001117F44C708A5AB1&nodelevel=3&profilecode=&AuthInfo=mMSCDKpKqLTs82mrY%2BEsQzsdU676ZCq7Hq4ujC1dJzZkFaJ9I2%2FNPCpm5xMo51TS7KZMFB3AeMFdqns%2FK9IeMg%3D%3D&usersessionid=23444814&bitrate=2000&distype=0
+http://192.168.1.1:4022/rtp/121.60.254.112:554
 #EXTINF:-1 ,高尔夫网球HD
 http://192.168.1.1:4022/rtp/239.69.1.83:10138
 #EXTINF:-1 ,国学频道
@@ -218,9 +218,9 @@ http://192.168.1.1:4022/rtp/239.69.1.189:10776
 #EXTINF:-1 ,四海钓鱼
 http://192.168.1.1:4022/rtp/239.69.1.244:11106
 #EXTINF:-1 ,女性时尚
-http://192.168.1.1:4022/rtp/121.60.254.112:554/live/ch17051615333716564932.sdp?playtype=1&boid=001&clienttype=1&time=20231224220926+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=wh1801292621&mediaid=ch17051615333716564932&ctype=2&TSTVTimeLife=7200&authid=0&terminalflag=1&UserLiveType=1&stbid=00100300000090001117F44C708A5AB1&nodelevel=3&profilecode=&AuthInfo=mMSCDKpKqLTs82mrY%2BEsQ1eHY7mfU7hZxYphoeNYOkaI1vXEJ%2Bz4gxXdaDwTuWIP7KZMFB3AeMFdqns%2FK9IeMg%3D%3D&usersessionid=23444832&bitrate=2000&distype=0
+http://192.168.1.1:4022/rtp/121.60.254.112:554
 #EXTINF:-1 ,汽摩
-http://192.168.1.1:4022/rtp/121.60.254.112:554/live/ch17051615273649055588.sdp?playtype=1&boid=001&clienttype=1&time=20231224220926+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=wh1801292621&mediaid=ch17051615273649055588&ctype=2&TSTVTimeLife=7200&authid=0&terminalflag=1&UserLiveType=1&stbid=00100300000090001117F44C708A5AB1&nodelevel=3&profilecode=&AuthInfo=mMSCDKpKqLTs82mrY%2BEsQ9%2FHmUFhR9o4uT20cpF1sPxIcby3uSAJKCYtjmH4I6Bi7KZMFB3AeMFdqns%2FK9IeMg%3D%3D&usersessionid=23444816&bitrate=2000&distype=0
+http://192.168.1.1:4022/rtp/121.60.254.112:554
 #EXTINF:-1 ,通城新闻综合
 http://192.168.1.1:4022/rtp/239.69.1.37:9862
 #EXTINF:-1 ,卫生健康
@@ -230,13 +230,15 @@ http://192.168.1.1:4022/rtp/239.69.1.46:9916
 #EXTINF:-1 ,先锋乒羽
 http://192.168.1.1:4022/rtp/239.69.1.143:10494
 #EXTINF:-1 ,襄阳谷城综合HD
-http://192.168.1.1:4022/rtp/121.60.254.112:554/live/ch22072214263344818727.sdp?playtype=1&boid=001&clienttype=1&time=20231224220926+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=wh1801292621&mediaid=ch22072214263344818727&ctype=2&TSTVTimeLife=0&authid=0&terminalflag=1&UserLiveType=1&stbid=00100300000090001117F44C708A5AB1&nodelevel=3&profilecode=&AuthInfo=mMSCDKpKqLTs82mrY%2BEsQxQy%2F6dxjFQ2asdQDTyPX91X67Bvh%2FAKJR%2BdwfAYE8Jt7KZMFB3AeMFdqns%2FK9IeMg%3D%3D&usersessionid=23444807&bitrate=2000&distype=0
+http://192.168.1.1:4022/rtp/121.60.254.112:554
 #EXTINF:-1 ,襄阳枣阳综合HD
-http://192.168.1.1:4022/rtp/121.60.254.112:554/live/ch22062416260418216294.sdp?playtype=1&boid=001&clienttype=1&time=20231224220926+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=wh1801292621&mediaid=ch22062416260418216294&ctype=2&TSTVTimeLife=0&authid=0&terminalflag=1&UserLiveType=1&stbid=00100300000090001117F44C708A5AB1&nodelevel=3&profilecode=&AuthInfo=mMSCDKpKqLTs82mrY%2BEsQ2JeZc2fZIzrdp0gl0tVbpIgFvrdaE5TnLCrfbeAhXdj7KZMFB3AeMFdqns%2FK9IeMg%3D%3D&usersessionid=23444805&bitrate=2000&distype=0
+http://192.168.1.1:4022/rtp/121.60.254.112:554
 #EXTINF:-1 ,孝感安陆新闻综合HD
-http://192.168.1.1:4022/rtp/121.60.254.112:554/live/ch21121015165571436894.sdp?playtype=1&boid=001&clienttype=1&time=20231224220926+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=wh1801292621&mediaid=ch21121015165571436894&ctype=2&TSTVTimeLife=0&authid=0&terminalflag=1&UserLiveType=1&stbid=00100300000090001117F44C708A5AB1&nodelevel=3&profilecode=&AuthInfo=mMSCDKpKqLTs82mrY%2BEsQ2qJJw3Rfz%2FtxNkZd6gUL70e1%2FvIsbxr0mGbfkhzmtAq7KZMFB3AeMFdqns%2FK9IeMg%3D%3D&usersessionid=23444803&bitrate=2000&distype=0
+http://192.168.1.1:4022/rtp/121.60.254.112:554
 #EXTINF:-1 ,孝感应城综合HD
 http://192.168.1.1:4022/rtp/239.69.1.37
+#EXTINF:-1 ,巴东新闻HD
+http://192.168.1.1:4022/rtp/239.69.1.37:9862
 #EXTINF:-1 ,新动漫
 http://192.168.1.1:4022/rtp/239.69.1.187:10764
 #EXTINF:-1 ,央视台球HD
