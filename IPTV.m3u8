@@ -59,7 +59,7 @@ http://192.168.1.1:4022/rtp/239.254.96.138:8902
 http://192.168.1.1:4022/rtp/239.69.1.40:9880
 #EXTINF:-1 tvg-id="1780" tvg-name="湖北教育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="湖北",湖北教育HD
 http://192.168.1.1:4022/rtp/239.69.1.206:10878
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖北经视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北经视HD
 http://192.168.1.1:4022/rtp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="湖北",湖北垄上HD
 http://192.168.1.1:4022/rtp/239.69.1.43:9898
@@ -229,7 +229,7 @@ http://192.168.1.1:4022/rtp/239.254.96.207:9322
 http://192.168.1.1:4022/rtp/239.69.1.46:9916
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方",先锋乒羽
 http://192.168.1.1:4022/rtp/239.69.1.143:10494
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="地方",新动漫
 http://192.168.1.1:4022/rtp/239.69.1.187:10764
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球HD
 http://192.168.1.1:4022/rtp/239.69.1.98:10224
